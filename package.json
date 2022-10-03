@@ -2,12 +2,19 @@
   "name": "xstheme",
   "displayName": "XSTheme",
   "description": "Theme basado en Codely Theme con tonos rojos",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.71.0"
   },
+  "scripts": {
+    "build": "vsce package"
+  },
   "publisher": "JoseXS",
-  "repository": "https://github.com/josexs/vscode-xstheme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josexs/vscode-xstheme.git"
+  },
   "categories": [
     "Themes"
   ],
@@ -19,5 +26,8 @@
         "path": "./themes/XSTheme-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "vsce": "^1.85.1"
   }
 }
