@@ -1,7 +1,7 @@
 {
   "name": "xstheme",
   "displayName": "XSTheme",
-  "description": "Proximamente...",
+  "description": "Theme basado en Codely Theme con tonos rojos",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.71.0"
