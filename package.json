@@ -1,0 +1,21 @@
+{
+  "name": "xstheme",
+  "displayName": "XSTheme",
+  "description": "Proximamente...",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "XSTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/XSTheme-color-theme.json"
+      }
+    ]
+  }
+}
