@@ -6,6 +6,8 @@
   "engines": {
     "vscode": "^1.71.0"
   },
+  "publisher": "JoseXS",
+  "repository": "https://github.com/josexs/vscode-xstheme",
   "categories": [
     "Themes"
   ],
