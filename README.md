@@ -1,5 +1,3 @@
-# XSTheme README
+# XSTheme
 
-## Working with Markdown
-
-Theme para Visual Studio Code basado en Codely Dark
+Theme para Visual Studio Code basado en [Codely Dark](https://marketplace.visualstudio.com/items?itemName=codely.codely-theme)
