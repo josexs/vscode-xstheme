@@ -2,13 +2,14 @@
   "name": "xstheme",
   "displayName": "XSTheme",
   "description": "Theme basado en Codely Theme con tonos rojos",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.71.0"
   },
   "scripts": {
-    "build": "vsce package"
+    "build": "vsce package",
+    "publish": "vsce publish"
   },
   "publisher": "JoseXS",
   "repository": {
